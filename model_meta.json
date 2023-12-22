@@ -1,0 +1,1 @@
+{"inputUnits":[48,48,4],"outputUnits":3,"inputs":{"image":{"dtype":"array","min":0,"max":255}},"outputs":{"label":{"dtype":"string","min":0,"max":1,"uniqueValues":["ChainYun","富貴","others"],"legend":{"ChainYun":[1,0,0],"富貴":[0,1,0],"others":[0,0,1]}}},"isNormalized":true}
